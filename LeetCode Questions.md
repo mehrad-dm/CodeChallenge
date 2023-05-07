@@ -1,11 +1,5 @@
 # LeetCode Questions
 
-Created: March 3, 2023 1:30 PM
-Created By: Mehrad Deldadeh Moghadam
-Last Edited By: Mehrad Deldadeh Moghadam
-Last Edited Time: March 4, 2023 11:24 AM
-Status: Archived
-Type: Tips & tricks
 
 ### #1. **Two Sum**
 
